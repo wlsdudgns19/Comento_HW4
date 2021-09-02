@@ -19,4 +19,8 @@
 
 ### 2. 추가 진행 상황
   - 휴일을 제외한 로그인 수
-    - 별도의 D
+    - 별도의 DB생성
+    - ![image](https://user-images.githubusercontent.com/71567319/131850177-142c4fb0-1b98-4ed8-b43b-7c9618f84310.png)  ![image](https://user-images.githubusercontent.com/71567319/131849968-40c2576f-fa71-498b-998f-e0bf848a7bbd.png)
+
+
+
